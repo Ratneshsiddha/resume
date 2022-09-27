@@ -5,12 +5,8 @@ const Profile = () => {
   return (
     <>
     <div className='md:fixed flex flex-col w-[100%] md:w-[27%] bg-slate-200 md:h-[100vh] '>
-    <div className="flex justify-center">
-    <img
-      className="md:w-[85%] md:rounded-tl-lg md:rounded-br-3xl shadow-md md:mt-20 object-bottom"
-      src="https://media-exp1.licdn.com/dms/image/C5603AQEVGRaBxGF-Ig/profile-displayphoto-shrink_800_800/0/1641456638840?e=2147483647&v=beta&t=FSoGkKyE1UyC0ILXU3DM6O7QNcIrTNqS-fl5yDh3vHY"
-      alt="profile pic"
-      />
+    <div className="flex mt-20 md:mt-0 justify-center">
+      <img src="/profile2.jpg" className="md:w-[85%] md:rounded-tl-lg md:rounded-br-3xl shadow-md md:mt-20 object-bottom" alt="profile pic" />
   </div>
   <div className='flex justify-center space-x-10 p-3 text-gray-600 text-2xl'>
         <BsLinkedin className=' hover:scale-90 transition-all'/>

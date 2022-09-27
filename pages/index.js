@@ -31,6 +31,7 @@ export default function Home() {
               Recently i have completed my front-end development training at
               inocrypt infosoft software company.
             </p>
+            
           </div>
 
           <div className="mt-10 space-y-1">
