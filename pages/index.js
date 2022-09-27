@@ -20,7 +20,7 @@ export default function Home() {
         <div className="flex flex-col font-medium justify-center  px-5 md:px-24 md:h-[100vh] ">
           <div className="space-y-1 ">
             <h1 className="text-gray-600 text-xl">Hello!</h1>
-            <h1 className="text-2xl text-cyan-600">I Am Ratnesh</h1>
+            <h1 className="text-2xl text-cyan-600">I Am Ratnesh.</h1>
             <hr className="border-cyan-600 border-2 w-14" />
             <p className="text-gray-600 leading-relaxed break-normal ">
               Seekin a begainer role to enhance and explore my technical
