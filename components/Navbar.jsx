@@ -19,7 +19,7 @@ const Navbar = () => {
             <div className="flex justify-between items-center md:text-start text-2xl  ">
               <Link href={"/"}>
                 {/* <h1 className="hover:cursor-pointer">Ratnesh siddha</h1> */}
-                <img className="h-10" src="https://cdn-icons-png.flaticon.com/512/3572/3572810.png" alt="" />
+                <img className="h-10 cursor-pointer" src="https://cdn-icons-png.flaticon.com/512/3572/3572810.png" alt="" />
               </Link>
 
               <Menu placement="bottom-start">
