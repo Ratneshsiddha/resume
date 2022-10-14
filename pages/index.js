@@ -14,7 +14,10 @@ export default function Home() {
         <title>Ratnesh Siddha</title>
         <meta name="description" content="Ratnesh's resume website" />
         {/* <link rel="icon" href="/favicon.ico" /> */}
-        <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3572/3572810.png" /> 
+        <link
+          rel="icon"
+          href="https://cdn-icons-png.flaticon.com/512/3572/3572810.png"
+        />
       </Head>
       <div className="space-y-6 md:space-y-0">
         {/* slide 1 */}
@@ -24,14 +27,16 @@ export default function Home() {
             <h1 className="text-2xl text-cyan-600">I Am Ratnesh.</h1>
             <hr className="border-cyan-600 border-2 w-14" />
             <p className="text-gray-600 leading-relaxed break-normal ">
-              Seekin a begainer role to enhance and explore my technical
-              knowledge gained in last few years. <br />
-              I hold a diploma in information technology from Govt. Kalaniketan
-              polytechnic college . <br />
-              Recently i have completed my front-end development training at
-              inocrypt infosoft software company.
+              Looking for front-end developer
+              positions to further develop and apply the technical skills I have
+              gained in the last few years , Exceptional skills in web
+              applications, HTML5, tailwind, JavaScript, and react JS , Passionate about software architecture
+              and cloud computing. Regular attendee of web developer meetups and
+              hackathons. I hold a diploma in information technology from Govt.
+              Kalaniketan polytechnic college , Currently studying computer
+              science at GLOBAL NATURE CARE GROUP SANGATHAN INSTITUTION,
+              Jabalpur. <br />
             </p>
-            
           </div>
 
           <div className="mt-10 space-y-1">
@@ -54,7 +59,7 @@ export default function Home() {
                   <BsCodeSlash />
                 </div>
                 <p className="text-gray-600 font-normal">
-                  High Quality development of sites at the professional level.
+                  High quality development of sites at the professional level.
                 </p>
               </div>
             </div>
@@ -76,7 +81,7 @@ export default function Home() {
             <div className="bg-gray-200 p-2 rounded-md shadow-sm">
               <div className="flex items-center space-x-4">
                 <div className="px-4 md:mb-3">
-                  <font className="text-xl ">Computer Science Engineering</font>
+                  <font className="text-lg ">Computer Science Engineering</font>
                   <p className="font-normal">
                     B-tech ,Global Nature Care Sangathan Group Of
                     Institutions,Faculty OIf Engineering And Management,Jabalpur{" "}
@@ -87,7 +92,7 @@ export default function Home() {
               </div>
               <div className="flex items-center space-x-4">
                 <div className="px-4">
-                  <font className="text-xl">
+                  <font className="text-lg">
                     Diploma In Information Technology
                   </font>
                   <p className="font-normal">
@@ -106,7 +111,7 @@ export default function Home() {
             <div className="bg-gray-200 p-2 rounded-md shadow-sm">
               <div className="flex items-center space-x-4">
                 <div className="px-4 md:mb-3">
-                  <font className="text-xl">Full Stack Web Development</font>
+                  <font className="text-lg">Full Stack Web Development</font>
                   <p className="font-normal">
                     Inocrypt Infosoft Software Company <br />
                     Jabalpur (M.P) <br />
@@ -116,7 +121,7 @@ export default function Home() {
               </div>
               <div className="flex items-center space-x-4">
                 <div className="px-4">
-                  <font className="text-xl">Java Foundation</font>
+                  <font className="text-lg">Java Foundation</font>
                   <p className="font-normal">
                     Oracle Acadmy <br />
                     March 2022 - April 2022
@@ -140,7 +145,7 @@ export default function Home() {
                 </div>
               </div>
               <div>
-                <font className="text-xl">
+                <font className="text-lg">
                   {" "}
                   Inocrypt Infosoft Software Company
                 </font>
@@ -152,9 +157,9 @@ export default function Home() {
                 </p>
               </div>
               <div>
-                <font className="text-xl">Tick Tech It Solution</font>
+                <font className="text-lg">Tick Tech It Solution</font>
                 <p className="font-normal">
-                  Pune (M.P)
+                  Pune (M.H)
                   <br />
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                   Omnis corporis quasi sapiente illo, adipisci magnam <br />
