@@ -37,7 +37,7 @@ const Profile = () => {
         </div>
         <div className="flex justify-center">
           <button className="bg-cyan-600 w-full md:w-[85%] p-2 md:rounded-sm mb-3 hover:scale-95 transition-all text-white text-xl">
-            Download cv
+          <a download="/RatneshResume.jpg" title="RatneshResume" href="/RatneshResume.jpg" >Download cv</a> 
           </button>
         </div>
       </div>
